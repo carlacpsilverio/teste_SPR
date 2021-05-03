@@ -1,0 +1,34 @@
+Sentença;Pergunta;Resposta esperada;Item;Grupo
+A_mulher_foi_a__festa. Ela levou um_casaco, porque estava_esfriando naquela noite de_sábado.;O casaco é certo para a noite de sábado? ;Sim;PQ_C_com_1;GS
+O_tio_foi_à_feira. Ele usou uma_touca, porque estava_esfriando naquela manhã de_segunda.;A touca é certa para a manhã de segunda? ;Sim;PQ_C_com_2;GS
+A_tia_foi_à_feira. Ela levou a_jaqueta, porque fazia_muito_calor naquela tarde de_domingo.;A jaqueta é certa para a tarde de domingo? ;Não ;PQ_I_com_3;GS
+O_avô_foi_ao_mercado. Ele usou sua_luva, porque estava_muito_sol naquela hora da_segunda.;A luva é certa para aquela hora da segunda? ;Não ;PQ_I_com_4;GS
+A_menina_foi_ao_parque. Ela levou seu_casaco, mas estava_muito_quente naquela tarde de_sábado.;O casaco é certo para a tarde de sábado?;Não ;M_C_com_5;GS
+A_avó_foi_ao_supermercado. Ela levou um_cachecol, mas estava_muito_calor naquela hora da_tarde.;O cachecol é certo para aquela hora da tarde? ;Não ;M_C_com_6;GS
+A_menina_foi_ao_parque. Ela levou guarda-chuva, mas estava_chuviscando naquela tarde de_domingo.;O guarda-chuva é certo para a tarde de domingo? ;Sim;M_I_com_7;GS
+O_menino_foi_à_escola. Ele levou suas_luvas, mas estava_muito_frio naquela manhã de_terça.;A luva é certa para a manhã de terça?;Sim;M_I_com_8;GS
+O_homem_foi_ao_cinema. Ele usou botas, estava_chuviscando naquela bela noite de_inverno.;A bota é certa para a noite de inverno? ;Sim;C_sem_9;GS
+A_mulher_foi_para_a_praça. Ela levou chapéu, estava_muito_quente naquela linda tarde de_novembro.;O chapéu é certo para a tarde de novembro? ;Sim;C_sem_10;GS
+A_mulher_foi_à_festa. Ela usou camiseta, estava_muito_frio naquela linda noite de_sábado.;A camiseta é certa para a noite de sábado? ;Não ;I_sem_11;GS
+O_homem_foi_pro_trabalho. Ele levou a_jaqueta, estava_muito_sol naquele belo dia de_setembro.;A jaqueta é certa para aquele dia de setembro? ;Não ;I_sem_12;GS
+Estava_na_semana_de_provas. A_garota estudou_muito, para_a_prova então ela_foi_aprovada na_prova do_final do_semestre.;É certo a garota ser aprovada? ;Sim;E_C_com_13;GS
+Era_o_dia_da_partida_final. Os_jogadores estavam_preparados para_o_jogo, então eles_foram_campeões do_jogo final do_campeonato.;É certo os jogadores serem campeões? ;Sim;E_C_com_14;GS
+Estava_no_dia_da_aula. A_aluna fez_seu_trabalho com_o_grupo, então ela_perdeu_os_pontos daquela entrega do_trabalho.;É certo a aluna perder os pontos do trabalho?;Não ;E_I_com_15;GS
+Estava_na_semana_de_férias. A_mulher descansou_muito nessa_semana, então ela_está_cansada ainda na_volta ao_trabalho.;Tem motivo para a mulher estar cansada?;Não ;E_I_com_16;GS
+Estava_no_horário_do_filme_novo. O_rapaz comprou_o_ingresso para_o_cinema, ele_entrou_na_sala do_filme novo do_cinema do_shopping.;É certo o rapaz entrar na sala do cinema?;Sim;E_C_sem_17;GS
+Estava_na_hora_da_refeição. A_cozinheira esquentou_muito o_sanduíche, ela_queimou_a_boca na _hora do_ lanche naquela tarde.;Tem motivo para a cozinheira queimar a boca?;Sim;E_C_sem_18;GS
+Estava_na_hora_da_escola. O_menino levou_a_bolsa do_lanche, ele_ficou_com_fome naquele horário do_recreio da_escola.;Tem motivo para o menino ficar com fome?;Não ;E_I_sem_19;GS
+Estava_no_dia_do_passeio. A_criança levou_sua_água para_o_passeio, ela_ficou_com_sede no_final do_dia do_passeio.;Tem motivo para a criança ficar com sede?;Não ;E_I_sem_20;GS
+O_casal_foi_à_padaria. Maria comprou_pão, enquanto João comprou_café naquela tarde de_segunda.;Maria e João compraram juntos?;Sim;D_21;GS
+Os_irmãos_visitaram_os_tios. Enquanto o_irmão abraçou_o_tio, a_irmã abraçou_a_tia na_sala de_jantar no_sábado.;O irmão abraçou o tio antes da irmã abraçar a tia?;Não ;D_22;GS
+O_casal_foi_ao_supermercado. Paula comprou_maçã, enquanto José comprou_mamão naquela manhã de_sábado.;Paula e José compraram juntos?;Sim;D_23;GS
+Os_amigos_foram_à_loja_de_livros. Enquanto o_garoto leu_o_livro de_biologia, a_garota leu_o_livro de_português naquela_loja.;O garoto e a garota leram juntos?;Sim;D_24;GS
+A_menina_foi_à_escola. Ela_vestiu_o_casaco antes de_pegar a_mochila. Estava_frio naquela manhã de_quinta.;A menina pegou a mochila antes de vestir o casaco?;Sim;D_25;GS
+O_homem_foi_ao_shopping. Antes de_beber o_suco, ele_comprou a_camisa. Estava_calor naquele domingo.;O homem comprou o suco depois de comprar a camisa?;Sim;D_26;GS
+Maria_foi_à_padaria. Ela_comeu o_bolo antes de_beber o_café. Estava_frio naquele sábado.;Maria bebeu o café antes de comer o bolo?;Não ;D_27;GS
+A_menina_foi_ao_parque. Ela_brincou no_balanço e_depois tomou_sorvete. Estava_calor naquela tarde de_sexta.;A menina tomou sorvete antes de brincar?;Não ;D_28;GS
+O_homem_comprou_uvas. Depois de_lavar as_uvas, ele_as_comeu. Estava_calor naquela noite de_terça.;A menina comeu as uvas antes de lavar?;Não ;D_29;GS
+João_chegou_em_casa. Ele_tomou_banho e_depois comeu_o_lanche. Estava_quente naquela noite escura de_segunda.;João tomou banho antes de comer?;Sim;D_30;GS
+João_acordou_pensando_em_ir_à_festa_na_piscina. Ele_se_arrumou, apesar de_estar_chovendo naquela manhã de_sábado.;Tem motivo para João se arrumar?;Não ;D_31;GS
+A_mulher_está_em_casa. Apesar de_não precisar trabalhar, ela_acordou_cedo naquela manhã de_domingo.;Tem motivo para a mulher acordar cedo?;Não ;D_32;GS
+O_homem_tem_uma_moto. Apesar de_estar_limpa, ele_lavou_a_moto naquela linda manhã fria de_sábado.;Tem motivo para o homem lavar a moto?;Não ;D_33;GS
